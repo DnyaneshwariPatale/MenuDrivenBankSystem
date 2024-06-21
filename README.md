@@ -5,9 +5,7 @@
   <a href="https://www.github.com/DnyaneshwariPatale">
     <img src="https://img.shields.io/github/followers/DnyaneshwariPatale?style=social&link=https://www.github.com/DnyaneshwariPatale" alt"GitHub"/>
   </a>
-  <a href="https://linktr.ee/caesarmario_">
-    <img src="https://img.shields.io/badge/Follow%20My%20Other%20Works-019875?style=flat&labelColor=019875&link=https:/linktr.ee/caesarmario_" alt"Linktree"/>
-  </a>
+ 
 </p>
 <br>
 
@@ -56,35 +54,6 @@
 <br><br>
 [![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-table-of-contents)
 <br><br>
-
-## 📷 Screenshot:
-### 🏠 Main Menu: <br>
-![](https://raw.githubusercontent.com/DnyaneshwariPatale/simple-online-banking-system/main/Screenshot/1.0_Main%20Menu.png)
-  
-### 👨‍💼 Admin: <br>
-#### ▶ Admin Login
-![](https://raw.githubusercontent.com/DnyaneshwariPatale/simple-online-banking-system/main/Screenshot/2.0_Admin%20Login.png)
-#### ▶ Admin Menu
-![](https://raw.githubusercontent.com/DnyaneshwariPatale/simple-online-banking-system/main/Screenshot/2.1_Admin%20Menu.png)
-#### ▶ Admin Create New
-![](https://raw.githubusercontent.com/DnyaneshwariPatale/simple-online-banking-system/main/Screenshot/2.2_Admin%20Create%20New.png)
-
-
-### 🙎‍♂️ Customer: <br>
-#### ▶ Customer Login
-![](https://raw.githubusercontent.com/DnyaneshwariPatale/simple-online-banking-system/main/Screenshot/3.0_Customer%20Login.png)
-#### ▶ Customer Menu
-![](https://raw.githubusercontent.com/DnyaneshwariPatale/simple-online-banking-system/main/Screenshot/3.1_Customer%20Menu.png)
-#### ▶ Customer Deposit
-![](https://raw.githubusercontent.com/DnyaneshwariPatale/simple-online-banking-system/main/Screenshot/3.2_Customer%20Deposit.png)
-#### ▶ Customer Withdrawal
-![](https://raw.githubusercontent.com/DnyaneshwariPatale/simple-online-banking-system/main/Screenshot/3.3_Customer%20Withdrawal.png)
-#### ▶ Customer View
-![](https://raw.githubusercontent.com/DnyaneshwariPatale/simple-online-banking-system/main/Screenshot/3.4_Customer%20View.png)
-<br><br>
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#-table-of-contents)
-<br><br>
-
 
 ## 🙌 Support me!
 
